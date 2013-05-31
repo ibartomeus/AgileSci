@@ -1,18 +1,18 @@
 Ideas
 ========================================================
 
-**Title:** What ecologists can learn from software developers?
+**Title:** What field ecologists can learn from software developers?
 
 
 **Intro:**
 
 - Recent changes in ecology. Increase number of colaborators (see Neff & Olden 2010 Bioscience, Wuchty, S., B. F. Jones, and B. Uzzi. 2007. The increasing dominance of teams in production of knowledge. Science 316:1036-1039.), increase use of R, quantity/quality tradeoff, open science.
 
-- What Problems faced software devolpements and how they solved them (or try to solve them). Increase the quantity without decreasing quality (if quality is the way to go is not discussed here, see TREE references)
+- What Problems faced software devolpements and how they solved them (or try to solve them). Increase the quantity without decreasing quality (if quality is the way to go is not discussed here, see recent TREE references)
 
 - Why this problems are similar. Need to increase quantity, without decreasing quality. 
 
-- This is not a paper about improving code (covered here), 
+- This is not a paper about improving code (covered here: recent reference...), 
 
 **Tools:**
 
@@ -25,18 +25,12 @@ showing error decrease?
 
 - Increase interactions. Good job among lab memners, sometimes at department level, but what about sharing space with the fisics department? Economists? Examples of common restrooms, etc...
 
-- Agile development, be incremental (already done?) and improve communication by lab meetings, revision and lanning of the goals, How get the best of lab meetings!
+- Agile development, be incremental (already done?) and improve communication by lab meetings (teams do the stuff, not people), revision and lanning of the goals, How get the best of lab meetings! -> vicenç suggested to move that to the beginig as a phylosofy of work.
  
-- GDT?
+- GTD?
+
+Conclusions:
 
 - Replicability ideas, open science ideas...
 
-
-**Where to submit:**
-
-- Submit to TREE, F1000Research, oikos… or http://www.immediatescience.org/
-
-**Plan:**
-
-- Brainstorm first? Work on the same document? Do a Pair writting?
 
