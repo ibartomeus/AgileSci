@@ -30,12 +30,12 @@ retrospectives, motivation and comunication
 -------------------------------------------
 While the lab organization varies a lot among countries, and among people within countries, Lab meetings are common in most labs, and most times are usefull for generating a good environment, however, most labs strugle on how to get the most of this meetings. Scientists ussually try their best and rely on previous experience and common sense, but some tequniques has been proved to work better. (cite alon)
 
-#Vicenç, can you start this part? You are the expert!
+Vicenç, can you start this part? You are the expert!
 
-#Options of meeting structures: a) focus on questions like Accomplishments since last meeting - Goals for next (#Explain revision and planing of the goals?) b) what I need to do - which help I need - from who- 
-#Time boxing
-#Lists and GDT? 
-#scrum... 
+Options of meeting structures: a) focus on questions like Accomplishments since last meeting - Goals for next (#Explain revision and planing of the goals?) b) what I need to do - which help I need - from who- 
+Time boxing
+Lists and GDT? 
+scrum... 
 
 
 Version control
@@ -66,12 +66,12 @@ Academia is well known for its flexibility on designing your research agenda and
 
 On this time there are plenty of things to do, for example, read about other topic of your interest, colaborate on a crazy idea with someone from other department, write a blog or divulgate science, learn a programming lenguage or new statistical tool (may be attend a webinar), try to apply some of your basic research. All this activities, while not directly building on your current papers are key to your long term career goals.
 
-#Increase diversity communication not within, but among groups. Ideas of having common places and share spaces with other departments...
+Note: add something about Increase diversity communication not within, but among groups. Ideas of having common places and share spaces with other departments...
 
 Conclusions
 -----------
 
-#authorship recognition moving to teams (cite tscharanke papaer on acknowledging author contribution)...
+-authorship recognition moving to teams (cite tscharanke papaer on acknowledging author contribution)...
 
 
 

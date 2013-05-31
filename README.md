@@ -3,7 +3,7 @@ Agile_Sci
 
 -Can science be more agile?
 
-This is a short paper to try to apply some software developers Agile techniques to ecology research.
+This is a short paper to try to apply some software Agile development techniques to ecology research.
 
 -What can field ecologists can learn from software programmers?
 
