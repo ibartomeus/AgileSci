@@ -1,13 +1,14 @@
 What field ecologists can learn from software developers?
 =========================================================
 
-Ignasi Bartomeus^1,* ,Vicenç Garcia-Altes^2,** ,...
+Ignasi Bartomeus<sup>1,* </sup> Vicenç Garcia-Altes<sup>2</sup>, ...
 
-1 Department of Ecology, Swedish University of Agricultural Sciences, SE-75007 Uppsala, Sweden.
-2 Developer Advisor at Plain Concepts, Bilbao, Spain.
+<sup>1</sup> Department of Ecology, Swedish University of Agricultural Sciences, SE-75007 Uppsala, Sweden.
 
-*nacho.bartomeus@gmail.com
-**vigarcia@plainconcepts.com
+<sup>2</sup> Developer Advisor at Plain Concepts, Bilbao, Spain <vigarcia@plainconcepts.com>
+
+<sup>*</sup> Correspondence author: <nacho.bartomeus@gmailom>
+
 
 Abstract
 --------
@@ -15,7 +16,7 @@ Abstract
 Introduction
 ------------
 
-There is not an standardized way of organizing your research because every researcher has its own work flow and because different problems require diffrent working habits. Science requires this flexibility to succeed because we, as scientists, need to integrate in our every day work time for hands-on research, but also for discusion and inspiration. However, there is an increasing pressure to produce more. The need for increasing the scientific production is on debate (e.g. slow science manifesto, TREE papers), and the main claim is that there is a risk to sacrifice quality by quantity. We do not advocate that increasing production is the way forward, but we do propose a set of tools that can help the researcher to keep with the increased production demands, without decreasing quality.
+There is not an standardized way of organizing your research because every researcher has its own work flow and because different problems require diffrent working habits. Science requires this flexibility to succeed because we, as scientists, need to integrate in our every day work time for hands-on research, but also for discusion and inspiration. However, there is an increasing pressure to produce more. The need for increasing the scientific production is on debate (e.g. slow science manifesto, TREE papers (http://f1000.com/prime/717949375?emailType=sectionAlert)), and the main claim is that there is a risk to sacrifice quality by quantity. We do not advocate that increasing production is the way forward, but we do propose a set of tools that can help the researcher to keep with the increased production demands, without decreasing quality.
 
 Software developers faced a similar problem, where they were asked to deliver great products in a fast changing world. This need to deliver value in short term without decreasing quality forced the community to develop new ways of organizing their workflow. Hence, in some aspects, they are ahead of us. NEED TO DESCRIBE BRIEFLY AGILE HISTORY/ IDEALS / OBJECTIVES HERE. Vicenç?
 
@@ -36,6 +37,7 @@ Options of meeting structures: a) focus on questions like Accomplishments since 
 Time boxing
 Lists and GDT? 
 scrum... 
+Vicenç, we can add all this fancy techniques you send to fn
 
 
 Version control
@@ -66,18 +68,64 @@ Academia is well known for its flexibility on designing your research agenda and
 
 On this time there are plenty of things to do, for example, read about other topic of your interest, colaborate on a crazy idea with someone from other department, write a blog or divulgate science, learn a programming lenguage or new statistical tool (may be attend a webinar), try to apply some of your basic research. All this activities, while not directly building on your current papers are key to your long term career goals.
 
-Note: add something about Increase diversity communication not within, but among groups. Ideas of having common places and share spaces with other departments...
+Note: add something about Increase diversity communication not within, but among groups. Ideas of having common places and share spaces with other departments...Close door 90% communication off. Team work is ultimately about communication.
+
+--http://www.wisebread.com/why-you-should-follow-googles-20-rule
+
+--pair programming works best with a large uncertain search space of problems and solutions. the closer to a solved problem, the less it helps
+
 
 Conclusions
 -----------
 
 -authorship recognition moving to teams (cite tscharanke papaer on acknowledging author contribution)...
+-Add Journals recognising value of each author to change the role. 
+
+box: hackatons
+--------------
+Add a box with how you can do hackaton equivalent events to bring the team toguether and start a ms, dicuss a topic or search for the "next big thing" CIte frm main text.
+Hackathons are community building events
+
+Or Code dojos, or any of this agile events...
+
+
+refs: random
+------------
+-papers about teamwork outperform single people work:
 
 
 
+http://www.palgrave-journals.com/jibs/journal/v41/n4/abs/jibs200985a.html
+
+Types of creativity training: Approaches and their effectiveness. Scott et al. JOURNAL OF CREATIVE BEHAVIOR. 2004.
+A synthetic analysis of the effectiveness of single components and packages in creativity training programs. Ma. CREATIVITY RESEARCH JOURNAL. 2006.
+1. Changes in Children's Pretend Play Over Two Decades Russet al. CREATIVITY RESEARCH JOURNAL. 2011.
+2. Team-Level Predictors of Innovation at Work: A Comprehensive Meta-Analysis Spanning Three Decades of Research. Hulsheger et al. JOURNAL OF APPLIED PSYCHOLOGY. 2009.
+3. A META-ANALYSIS OF LONG-TERM CREATIVITY TRAINING-PROGRAMS Rose et al. JOURNAL OF CREATIVE BEHAVIOR. 1984.
+4. Education and Creativity. Fasko, D.F. CREATIVITY RESEARCH JOURNAL. 2001.
 
 
+--papers on productivity, etc..
+
+http://www.nytimes.com/2013/02/10/opinion/sunday/relax-youll-be-more-productive.html?_r=0
+
+http://arxiv.org/abs/1210.0530
+
+http://www.molecularecologist.com/2012/10/best-practices-for-scientific-computingand-molecular-ecology/     
+
+http://software-carpentry.org/2012/10/dark-matter-public-health-and-scientific-computing/#more-5165
+
+http://oikosjournal.wordpress.com/2012/11/29/do-we-publish-too-much/
 
 
+notes:
+------
+word limit 3000w 
+title: 8 words
+3 authors
+abstract 100 w
+box max 400 w
+we can have a Glossary for technical words
+50-70 refs top
 
 
